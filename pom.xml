@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.zornoely.nolsun</groupId>
-    <artifactId>nolsun</artifactId>
+    <groupId>com.zornoely.nofireworkoffhand</groupId>
+    <artifactId>nofireworkoffhand</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>nolsun</name>
+    <name>NoFireworkOffhand</name>
 
     <properties>
         <java.version>17</java.version>
@@ -44,6 +44,6 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>nolsun</finalName>
+        <finalName>nofireworkoffhand</finalName>
     </build>
 </project>
