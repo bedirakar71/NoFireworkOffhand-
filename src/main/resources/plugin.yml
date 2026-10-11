@@ -1,0 +1,6 @@
+name: NoFireworkOffhand
+version: 1.0
+main: com.zornoely.nofireworkoffhand.NoFireworkOffhand
+api-version: 1.20
+author: ZornoEly
+description: Havai fişeğin sol ele alınmasını tamamen engeller.
